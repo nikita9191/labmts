@@ -1,15 +1,6 @@
 package lab1;
 
-import static lab1.lab1.remainder;
-import static lab1.lab1.triArea;
-import static lab1.lab1.animals;
-import static lab1.lab1.profitableGamble;
-import static lab1.lab1.operation;
-import static lab1.lab1.ctoa;
-import static lab1.lab1.addUpTo;
-import static lab1.lab1.nextEdge;
-import static lab1.lab1.sumOfCubes;
-import static lab1.lab1.abcmath;
+import static lab1.lab1.*;
 
 public class Main {
     public static void main(String[] args) {
